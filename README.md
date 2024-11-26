@@ -7,9 +7,11 @@ This repository contains a Chrome extension to automate the process of filling v
 
 ## Features
 
-- Automatically fill out visa application forms.
+- Automatically fill out DAC visa application forms.
 - Easy-to-use interface.
-- Supports multiple visa forms.
+- Add multiple profiles.
+- All data is storred locally
+- Currently supports only Malaysia
 
 ## Installation
 
